@@ -5,5 +5,5 @@
 <h2 align="center">Bot Madara Discord criado por Richard</h2>
 <p align="center">O BOT esta em fase de testes e aprimoramento</p>
 
-## Para saber como utilizar o BOT basta apenas 
- Utilizar o comando  ?help
+<h2 align="center">Para saber como utilizar o BOT basta apenas</h2> 
+ <p align="center">Utilizar o comando  ?help</p>
