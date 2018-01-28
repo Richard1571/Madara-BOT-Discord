@@ -1,5 +1,5 @@
-# Madara-BOT-Discord
-## Bot Madara Discord criado por Richard
+# Madara-BOT-Discord#7057ff
+## Bot Madara Discord criado por Richard#7057ff
 
 ### O BOT esta em fase de testes e aprimoramento
 
